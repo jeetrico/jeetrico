@@ -1,3 +1,5 @@
+[![MasterHead](https://user-images.githubusercontent.com/73187712/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif)](https://jeetrico.github.io)
+
 <h1 align="center">Hi 👋, I'm JEET BANERJEE</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -17,10 +19,6 @@
 - 📫 How to reach me **jeet18banerjee@gmail.com**
 
 - ⚡ Fun fact **I am Funny.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
