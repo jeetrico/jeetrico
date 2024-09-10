@@ -60,6 +60,6 @@
     </a>
 </div>
 
-<h1 align="center">Hi 👋, I'm JEET BANERJEE</h1>
-<h3 align="center">A passionate Developer from INDIA</h
+<h1 align="center">MAKE SURE TO FOLLOW ME</h1>
+<h3 align="center">AND ALSO MAKE SURE TO LIKE 👍, SHARE & SUBSCRIBE</h
 
