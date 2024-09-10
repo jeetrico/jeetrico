@@ -1,0 +1,23 @@
+name: Generate Snake Game Contribution Grid
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at midnight UTC daily
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Game from GitHub Contribution Grid
+        uses: Platane/snk@v3.2.0
+        with:
+          github_user_name: ${{ jeetrico }} # Use repository owner as the GitHub user name
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
