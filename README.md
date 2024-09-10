@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm JEET BANERJEE</h1>
 <h3 align="center">A passionate Developer from INDIA</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/oqU1h6ccs8kAAAAC/anime.gif">
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/793133351669863417/561BCE722C270AFAC82D5DAA376250B384E18C34/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetrico&label=Profile%20views&color=0e75b6&style=flat" alt="jeetrico" /> </p>
 
@@ -56,7 +56,7 @@
 <!-- Centered Master Head GIF at the Top -->
 <div align="center">
     <a href="https://jeetrico.github.io">
-        <img src="https://wallpaperaccess.com/full/4498060.gif" alt="MasterHead" />
+        <img src="https://media1.tenor.com/m/oqU1h6ccs8kAAAAC/anime.gif" alt="MasterHead" />
     </a>
 </div>
 
