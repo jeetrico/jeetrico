@@ -62,5 +62,9 @@
 </div>
 
 <h1 align="center">MAKE SURE TO FOLLOW ME</h1>
-<h3 align="center">AND ALSO LIKE 👍 SHARE & SUBSCRIBE</h
+<h3 align="center">AND ALSO LIKE 👍 SHARE & SUBSCRIBE </h
+## Connect with Me
+
+  my YOUTUBE channel: [JEETRICO](https://www.youtube.com/@JEETRICO)
+
 
