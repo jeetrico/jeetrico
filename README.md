@@ -56,10 +56,10 @@
 <!-- Centered Master Head GIF at the Top -->
 <div align="center">
     <a href="https://jeetrico.github.io">
-        <img src="https://media1.tenor.com/m/X91PM5lwT0kAAAAd/goku.gif" alt="MasterHead" />
+        <img src="https://wallpaperaccess.com/full/4498060.gif" alt="MasterHead" />
     </a>
 </div>
 
 <h1 align="center">MAKE SURE TO FOLLOW ME</h1>
-<h3 align="center">AND ALSO MAKE SURE TO LIKE 👍, SHARE & SUBSCRIBE</h
+<h3 align="center">AND ALSO LIKE 👍, SHARE & SUBSCRIBE</h
 
