@@ -67,7 +67,7 @@
 
 <a href="https://www.youtube.com/@JEETRICO" target="_blank">
   <img src="https://cliply.co/wp-content/uploads/2020/12/CLIPLY_232807_YOUTUBE_ICON_200x200.gif" alt="YouTube" style="width:20px; height:20px;"/>
-</a>  my YOUTUBE Channel: [JEETRICO](https://www.youtube.com/@JEETRICO)
+</a>  My YOUTUBE Channel: [JEETRICO](https://www.youtube.com/@JEETRICO)
 
 
 
