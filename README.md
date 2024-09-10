@@ -1,6 +1,11 @@
-[![MasterHead](https://giffiles.alphacoders.com/371/3719.gif)](https://jeetrico.github.io)
+<div align="center">
+    <a href="https://jeetrico.github.io">
+        <img src="https://giffiles.alphacoders.com/371/3719.gif" alt="MasterHead" />
+    </a>
+</div>
 <h1 align="center">Hi 👋, I'm JEET BANERJEE</h1>
 <h3 align="center">A passionate Developer from INDIA</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/oqU1h6ccs8kAAAAC/anime.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetrico&label=Profile%20views&color=0e75b6&style=flat" alt="jeetrico" /> </p>
