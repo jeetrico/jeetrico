@@ -53,3 +53,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeetrico&show_icons=true&locale=en" alt="jeetrico" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeetrico&" alt="jeetrico" /></p>
+<!-- Centered Master Head GIF at the Top -->
+<div align="center">
+    <a href="https://jeetrico.github.io">
+        <img src="https://media1.tenor.com/m/X91PM5lwT0kAAAAd/goku.gif" alt="MasterHead" />
+    </a>
+</div>
+
+<h1 align="center">Hi 👋, I'm JEET BANERJEE</h1>
+<h3 align="center">A passionate Developer from INDIA</h
+
