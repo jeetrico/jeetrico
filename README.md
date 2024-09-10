@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Cashbook Tracker app**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Machine Learning, Block Chain, React Native**
 
 - 💬 Ask me about ** Gadgets, Latest Technologies, Innovative Ideas **
 
@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I am a Youtuber**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me here:---></h3>
 <p align="left">
 <a href="https://codepen.io/jeet-banerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jeet-banerjee" height="30" width="40" /></a>
 <a href="https://dev.to/jeetbanerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jeetbanerjee" height="30" width="40" /></a>
