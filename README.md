@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Android, MERN, Gadgets, Latest Technologies**
+- 💬 Ask me about ** Gadgets, Latest Technologies, Innovative Ideas **
 
 - 📫 How to reach me **jeet18banerjee@gmail.com**
 
