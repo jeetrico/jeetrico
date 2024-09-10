@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Block Chain, React Native**
 
-- 💬 Ask me about ** Gadgets, Latest Technologies, Innovative Ideas **
+- 💬 Ask me about **Gadgets, Latest Technologies, Innovative Ideas**
 
 - 📫 How to reach me **jeet18banerjee@gmail.com**
 
